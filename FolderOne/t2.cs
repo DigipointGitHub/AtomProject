@@ -8,4 +8,5 @@ public static void Main(string[] args)
   int j=4;
   int k=3;
   int l=6677;
+  int m=1;
 }
